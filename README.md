@@ -38,8 +38,6 @@ _getch() читает вводимый символ с клавиатуры бе
 
 Список заданий можно увидеть по ссылке - http://pozdnkov.vm2-leti.spb.ru/ucebnye-gruppy-1/plany-lekcij/kollokvium-po-dm/kollokvium-po-dm-2
 
-Список распределений заданий по команде разработки - https://docs.google.com/spreadsheets/d/1X-aLv9Yl9oKm5RbzMNQT9eqwkyXjf6FtmMNYhdbeCRA/edit#gid=0
-
 По поводу уровней меню:
  I уровень - главное меню
  II уровень - модули
